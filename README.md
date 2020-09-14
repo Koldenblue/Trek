@@ -2,7 +2,7 @@
 
 ![image](https://img.shields.io/badge/license-MIT%20License-green)
 
-Choose your own adventure! The TREK app is designed to be a single stop app for planning a day's outing. Access the deployed app at https://rbraun04.github.io/Trek/. Plan out a route to a nearby hiking spot, then find local restaurants and shops to stop at along the way. This project was the result of colloboration between several programmers (in alphabetical order): David Oyeyemi, Kevin Miller, Richard Antolin, Ryan Braun, and Sulada Sudjai.
+Choose your own adventure! The TREK app is designed to be a single stop app for planning a day's outing. Access the deployed app at https://koldenblue.github.io/Trek/. Plan out a route to a nearby hiking spot, then find local restaurants and shops to stop at along the way. This project was the result of colloboration between several programmers (in alphabetical order): David Oyeyemi, Kevin Miller, Richard Antolin, Ryan Braun, and Sulada Sudjai.
 
 ![image](https://user-images.githubusercontent.com/64618290/89943408-019efb00-dbd3-11ea-89dc-e987c4a44b6d.png)
 
