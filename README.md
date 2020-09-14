@@ -23,3 +23,5 @@ The design and front-end portion of the app was also carefully designed through 
 ### Questions and Contributions
 
 Questions may be directed to any programmers listed as joint collaborators on GitHub -  David Oyeyemi, Kevin Miller, Richard Antolin, Ryan Braun, and Sulada Sudjai.
+
+The author of this page may be contacted by email at 'kmillergit' at the domain 'outlook.com'.
