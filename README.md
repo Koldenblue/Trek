@@ -22,6 +22,6 @@ The design and front-end portion of the app was also carefully designed through 
 
 ### Questions and Contributions
 
-Questions may be directed to any programmers listed as joint collaborators on GitHub -  David Oyeyemi, Kevin Miller, Richard Antolin, Ryan Braun, and Sulada Sudjai.
+Questions may be directed to any programmers listed as joint collaborators on GitHub -  David Oyeyemi, Kevin Miller, Richard Antolin, Ryan Braun, and Sulada Sudjai. The original project page may be viewed at https://github.com/rbraun04/Trek.
 
-The author of this page may be contacted by email at 'kmillergit' at the domain 'outlook.com'.
+The author of this page, Kevin Miller, may be contacted by email at 'kmillergit' at the domain 'outlook.com'.
